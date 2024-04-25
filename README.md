@@ -5,6 +5,9 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+5411950537306&text=Ola+Kaike%21)
 ![Kaike GitHub stats](https://github-readme-stats.vercel.app/api?username=kaikemitadas&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaikemitadas&hide_progress=true)
+
+
 ### Tecnologias que uso no meu dia a dia 🤓🤓
 <div style="display: inline_block"><br>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
